@@ -1,0 +1,13 @@
+.app-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #852385a6;
+}
+
+.color-picker-heading{
+  font-weight: bold;
+  font-size: 28px;
+}
